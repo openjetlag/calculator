@@ -1,10 +1,4 @@
-参考
-
-https://www.gatewaypsychiatric.com/sleep-junkie-jet-lag-calculator/
-
-https://www.hillarys.co.uk/static/jet-lag-calculator/
-
-接口
+API
 
 https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Vict&language=pt_BR&fields=geometry&types=%28cities%29&key=AIzaSyDfLGBgjMGYMfL4YuzgGCNztBHbniJlQ1A
 
